@@ -1,35 +1,42 @@
-<p align="center">
-  <img alt="Rocketseat Education" src="https://avatars.githubusercontent.com/u/69590972?s=200&v=4" width="100px" />
-</p>
+###LuiQuiz
+O LuiQuiz é um aplicativo desenvolvido utilizando React Native com Expo, com ênfase na integração de tecnologias como React Native Skia, Reanimated, e Gesture Handler. O projeto tem como foco principal proporcionar uma experiência de usuário envolvente por meio de animações e microinterações. O aplicativo consiste em um quiz sobre informações de programação em JavaScript.
 
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=Rocketseat&message=Education&color=8257e5&labelColor=202024" alt="Rocketseat Project" />
-  <a href="LICENSE"><img  src="https://img.shields.io/static/v1?label=License&message=MIT&color=8257e5&labelColor=202024" alt="License"></a>
-</p>
+###Demonstração
+<iframe src="https://player.vimeo.com/video/895276827?h=95c95daa61" width="640" height="1389" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
-## 💻 Projeto
+###📋 Pré-requisitos
+Antes de começar, certifique-se de ter as seguintes ferramentas instaladas:
 
-luiquiz_template
+diff
+Copy code
+Exemplo:
+- Node.js
+- Expo CLI
+- Yarn
 
-## 📝 Licença
+###🔧 Instalação
+Siga estes passos para configurar o ambiente de desenvolvimento:
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+markdown
+Copy code
+Exemplo:
+1. Clone o repositório: `git clone https://github.com/luizz14/LuiQuiz.git`
+2. Navegue até o diretório do projeto: `cd LuiQuiz`
+3. Instale as dependências: `npm install`
+4. Inicie o aplicativo: `expo start`
+Repita o último passo sempre que precisar iniciar o ambiente de desenvolvimento.
 
----
+###🛠️ Construído com
+Principais ferramentas e tecnologias utilizadas no projeto:
 
-<p align="center">
-  Feito com 💜 by Rocketseat
-</p>
+React Native - Framework para desenvolvimento de aplicativos móveis
+React Native Skia - Renderização gráfica 2D
+Reanimated - Biblioteca para animações fluidas
+Gesture Handler - Reconhecimento de gestos
+Expo - Plataforma para construção de aplicativos React Native
 
-<!--START_SECTION:footer-->
+🎁 Expressões de Gratidão
 
-<br />
-<br />
+Projeto feito na trilha Ignite da Rocketseat com professor Rodrigo Gonçalves
 
-<p align="center">
-  <a href="https://discord.gg/rocketseat" target="_blank">
-    <img align="center" src="https://storage.googleapis.com/golden-wind/comunidade/rodape.svg" alt="banner"/>
-  </a>
-</p>
-
-<!--END_SECTION:footer-->
+⌨️ com ❤️ por Luiz 😊
