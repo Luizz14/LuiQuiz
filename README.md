@@ -2,7 +2,7 @@
 O LuiQuiz é um aplicativo desenvolvido utilizando React Native com Expo, com ênfase na integração de tecnologias como React Native Skia, Reanimated, e Gesture Handler. O projeto tem como foco principal proporcionar uma experiência de usuário envolvente por meio de animações e microinterações. O aplicativo consiste em um quiz sobre informações de programação em JavaScript.
 
 <h1>Demonstração</h1>
-<iframe src="https://player.vimeo.com/video/895276827?h=95c95daa61" width="640" height="1389" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+
 [![Assista ao Vídeo de Demonstração](https://player.vimeo.com/video/895276827?h=95c95daa61.png)](https://player.vimeo.com/video/895276827?h=95c95daa61)
 
 <h1>📋 Pré-requisitos</h1>
