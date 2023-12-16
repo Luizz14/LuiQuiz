@@ -3,6 +3,7 @@ O LuiQuiz é um aplicativo desenvolvido utilizando React Native com Expo, com ê
 
 <h1>Demonstração</h1>
 <iframe src="https://player.vimeo.com/video/895276827?h=95c95daa61" width="640" height="1389" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+[![Assista ao Vídeo de Demonstração](https://player.vimeo.com/video/895276827?h=95c95daa61.png)](https://player.vimeo.com/video/895276827?h=95c95daa61)
 
 <h1>📋 Pré-requisitos</h1>
 Antes de começar, certifique-se de ter as seguintes ferramentas instaladas:
